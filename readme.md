@@ -16,3 +16,7 @@
 
   `git config --global user.email "nickgomesdeoliveira200816@gmail.com"`
  `git config --global user.name "instanick"`
+#### Fazendo push no repositório remoto
+`git push -u origin main`
+#### `=Adicionando todos os arquivos do repositório local
+`git add .`
